@@ -2,7 +2,7 @@
 
 In this exercise, you get to familiarize yourself with fundamental Python
 
-## 0. Pythagorean theorem
+## 0. Pythagorean theorem (*)
 
 a) A right angled triangle has the catheti: a = 3 and b = 4 length units. Compute the hypothenuse of the triangle. (\*)
 
@@ -60,7 +60,7 @@ $\text{accuracy} = \frac{TP+TN}{TP+TN+FP+FN}$
 
 Is this a good model? Why? Why not?
 
-## 3. File metadata - format print
+## 3. File metadata - format print (*)
 
 There is a file with the following metadata:
 
@@ -77,17 +77,17 @@ Size (MB): 24.7
 Last Modified Year: 2023
 ```
 
-## 4. Unit converter - inch to cm
+## 4. Unit converter - inch to cm (*)
 
 Screen sizes are defined using inches for example my computer has 15'' and it corresponds to the diagonal of the screen. Let the user type in a value in inches and output the result in centimeters.
 
-## 5. Count characters in a text
+## 5. Count characters in a text (*)
 
 Create a program to let a user input a text, count the number of characters and print it out to the screen. Space can also be counted as a character here.
 
 Hint: `len()` function
 
-## 6. Data types
+## 6. Data types (*)
 
 Create variables of type bool, int, float, str and list. Then use `type` function and check each variables type.
 
