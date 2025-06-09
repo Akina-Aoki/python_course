@@ -2,7 +2,7 @@
 
 In this exercise, you get to familiarize yourself with git and github which are essential tools for every developer.
 
-> [!NOTE] 
+> [!NOTE]
 > Usually it's easier to create a repo in github and then clone it down to local filesystem, preferably in a folder called github. Then after you're done with your work for the day commit and push the changes to github.
 
 ## 0. Python repo
@@ -21,7 +21,7 @@ Create python repo with the following name `python_<class_name>_<first_name>_<la
 - lab1
 - lab2
 
-for each of the folders you will add contents during the course and do lots of commits. 
+for each of the folders you will add contents during the course and do lots of commits.
 
 ## 1. Portfolio repo
 
@@ -49,3 +49,8 @@ Fill in this table either by copying this into your own markdown file or copy it
 | commit          |             |
 | pull            |             |
 | clone           |             |
+| cd              |             |
+| ls              |             |
+| cd ..           |             |
+|                 |             |
+|                 |             |
