@@ -2,6 +2,9 @@
 
 In this exercise, you get to familiarize yourself with git and github which are essential tools for every developer.
 
+> [!NOTE] 
+> Usually it's easier to create a repo in github and then clone it down to local filesystem, preferably in a folder called github. Then after you're done with your work for the day commit and push the changes to github.
+
 ## 0. Python repo
 
 Create python repo with the following name `python_<class_name>_<first_name>_<last_name>` and the following folders
