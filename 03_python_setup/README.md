@@ -1,10 +1,5 @@
-# Course structure
-
-This lecture shows how the course material is structured. 
-
-## TODO: new video
-
 # Setup Python
+
 In this section, we will go through steps to set up python and related tools in your local machine. The target is to use Visual Studio Code as the code editor to work on jupyter notebooks under a virutal environment. The demo below is using windows OS, but there are additional notes for differences in mac OS. 
 
 ## Video 
