@@ -1,89 +1,48 @@
-# Exercise 0 - Python fundamentals
+# Exercise 0 - Git and github repositories
 
-In this exercise, you get to familiarize yourself with fundamental Python
+In this exercise, you get to familiarize yourself with git and github which are essential tools for every developer.
 
+## 0. Python repo
 
-## 0. Pythagorean theorem
+Create python repo with the following name `python_<class_name>_<first_name>_<last_name>` and the following folders
 
-a)  A right angled triangle has the catheti: a = 3 and b = 4 length units. Compute the hypothenuse of the triangle. (*)
+- explorations
+- video_code
+  - 04_input_output
+  - 05_if_statements
+- code_alongs
+  - 04_input_output
+  - 05_if_statements
+  - ...
+- exercises
+- lab1
+- lab2
 
-b)  A right angled triangle has hypothenuse c = 7.0 and a cathetus a = 5.0 length units. Compute the other cathetus and round to one decimal. (*)
+for each of the folders you will add contents during the course and do lots of commits. 
 
+## 1. Portfolio repo
 
+In programming, software developement, data science, data engineering and similar roles it's good to have a portfolio that you can show to future employers. The portfolio is a never ending process where you'll build and showcase different projects that you create. Start with cloning [Kokchun's portfolio repository](https://github.com/kokchun/Portfolio-Kokchun-Giang?tab=readme-ov-file) and change the `README.md` file to be yours. Then push it to your github.
 
+## 2. Theoretical exercises
 
-## 1. Classification accuracy (*)
-A machine learning model has been trained to detect fire. Here is the result of its predictions: 
+a) What is the difference between git and github?
 
-<table>
-<tbody>
-  <tr>
-    <td>True Positive (TP)
-      <ul>
-        <li>Reality: fire</li>
-        <li>Predicted: fire</li>
-        <li>Number of TP: 2</li>
-      </ul>
-    </td>
-    <td>False Positive (FP)
-      <ul>
-        <li>Reality: no fire</li>
-        <li>Predicted: fire</li>
-        <li>Number of FP: 2</li>
-      </ul>
-    </td>
-  </tr>
+b) What is the purpose of .gitignore file?
 
-  <tr>
-    <td>False Negative (FN)
-      <ul>
-        <li>Reality: fire</li>
-        <li>Predicted: no fire</li>
-        <li>Number of FN: 11</li>
-      </ul>
-    </td>
-    <td>True Negative (TN)
-      <ul>
-        <li>Reality: no fire</li>
-        <li>Predicted: no fire</li>
-        <li>Number of TN: 985</li>
-      </ul>
-    </td>
-  </tr>
-</tbody>
-</table>
-
-Calculated the accuracy using the following formula:
-
-$\text{accuracy} = \frac{TP+TN}{TP+TN+FP+FN}$
-
-Is this a good model? Why? Why not?
-
-
-## 1. Classification accuracy
-
-The following graphs below are created from [this dataset](https://data.world/makeovermonday/2025w3-steam-top-100-played-games). Try to recreate them as close as possible
-
-
+c) Why is it a good idea to work with git and github?
 
 ## Glossary
 
 Fill in this table either by copying this into your own markdown file or copy it into a spreadsheet if you feel that is easier to work with.
 
-| terminology | explanation |
-| ----------- | ----------- |
-| artist      |             |
-| containers  |             |
-| spine       |             |
-| axes        |             |
-| figure      |             |
-| subplot     |             |
-| patch       |             |
-| annotation  |             |
-| arrowprops  |             |
-| marker      |             |
-| ticks       |             |
-| ticklabels  |             |
-| layout      |             |
-| grid        |             |
-| legend      |             |
+| terminology     | explanation |
+| --------------- | ----------- |
+| git             |             |
+| github          |             |
+| version control |             |
+| backup          |             |
+| gitignore       |             |
+| commit          |             |
+| pull            |             |
+| clone           |             |
