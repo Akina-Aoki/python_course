@@ -20,3 +20,12 @@ You will learn
 - [w3schools - for loop](https://www.w3schools.com/python/python_for_loops.asp)
 - [w3schools - random module](https://www.w3schools.com/python/module_random.asp)
 - [w3schools - lists](https://www.w3schools.com/python/python_lists.asp)
+
+
+## Other videos
+
+- learn [while statement][while_video] to repeat code with given condition
+- learn [for statement][for_video] to efficiently repeat code
+
+[for_video]: https://www.youtube.com/watch?v=OnDr4J2UXSA
+[while_video]: https://www.youtube.com/watch?v=6TEGxJXLAWQ

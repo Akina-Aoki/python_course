@@ -21,3 +21,14 @@ This is your first look into Python and will learn
 - [real python - f-strings](https://realpython.com/python-f-strings/)
 - [w3schools - input](https://www.w3schools.com/python/ref_func_input.asp)
 - [debugging with f-strings - T. Hunner (2022), python morsels](https://www.pythonmorsels.com/debugging-with-f-strings/)
+
+
+## Other videos
+
+- learn [variables][variables] to store data
+- learn [input][input] to let user input to the program
+- learn [f-string][f_string_vid] to nicely format strings
+
+[variables]: https://www.youtube.com/watch?v=Z1Yd7upQsXY&t=470s
+[input]: https://www.youtube.com/watch?v=4OX49nLNPEE
+[f_string_vid]: https://www.youtube.com/watch?v=nghuHvKLhJA
