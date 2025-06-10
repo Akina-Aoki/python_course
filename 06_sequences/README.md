@@ -7,7 +7,6 @@ You will learn
 - while statement
 - for statement
 
-
 <a href="" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/python_videos/setup_part1.png?raw=true" alt="python setup part 1" width="600">
 </a>
@@ -15,7 +14,9 @@ You will learn
 ## Read more 
 
 - [w3schools - lists](https://www.w3schools.com/python/python_lists.asp)
-
+- [w3schools - access list items](https://www.w3schools.com/python/python_lists_access.asp)
+- [w3schools - sort list](https://www.w3schools.com/python/python_lists_sort.asp)
+- [w3schools - matplotlib](https://www.w3schools.com/python/matplotlib_intro.asp)
 
 ## Other videos
 
