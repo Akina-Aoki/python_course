@@ -20,3 +20,4 @@ This is your first look into Python and will learn
 - [w3schools - data type](https://www.w3schools.com/python/python_datatypes.asp)
 - [real python - f-strings](https://realpython.com/python-f-strings/)
 - [w3schools - input](https://www.w3schools.com/python/ref_func_input.asp)
+- [debugging with f-strings - T. Hunner (2022), python morsels](https://www.pythonmorsels.com/debugging-with-f-strings/)
