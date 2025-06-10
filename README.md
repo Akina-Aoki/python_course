@@ -6,7 +6,7 @@ The course is a beginner course, but it is good to have some prior knowledge of 
 
 | **Week** | **Content**                                                                        | **Lectures** | **Exercise** |
 | -------- | ---------------------------------------------------------------------------------- | ------------ | ------------ |
-| 1        | setup, git, github, uv, I/O, variables, data types, dynamical typing, if-statement | 00-04        | 0,1          |
+| 1        | setup, git, github, uv, I/O, variables, data types, dynamical typing, if-statement | 00-05a       | 0,1          |
 | 2        | control flows, for, while, list, list comprehensions, tuples                       | 05-06        | 2,3          |
 | 3        | strings, dictionary, file handling                                                 | 07-08        | 4, lab 1     |
 | 4        | functions, matplotlib                                                              |              | lab 1        |
