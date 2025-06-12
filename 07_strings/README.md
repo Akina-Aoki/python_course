@@ -1,11 +1,12 @@
+
 # Control structures
 
 ## TODO video
 
 You will learn
-- if statement
-- while statement
-- for statement
+- strings
+- string methods
+- intro to regexp 
 
 
 <a href="" target="_blank">
@@ -13,6 +14,9 @@ You will learn
 </a>
 
 ## Read more
+
+- [w3schools - strings](https://www.w3schools.com/python/python_strings.asp)
+- [w3schools - string methods](https://www.w3schools.com/python/python_strings_methods.asp)
 
 ## Other videos
 

@@ -17,6 +17,7 @@ You will learn
 - [w3schools - access list items](https://www.w3schools.com/python/python_lists_access.asp)
 - [w3schools - sort list](https://www.w3schools.com/python/python_lists_sort.asp)
 - [w3schools - matplotlib](https://www.w3schools.com/python/matplotlib_intro.asp)
+- [w3schools - python sets](https://www.w3schools.com/python/python_sets.asp)
 
 ## Other videos
 
