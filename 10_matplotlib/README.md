@@ -15,4 +15,6 @@ You will learn
 
 ## Read more
 
+- [matplotlib official documentation](https://matplotlib.org/stable/gallery/index.html)
+
 ## Other videos
