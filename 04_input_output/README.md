@@ -1,6 +1,8 @@
 # I/O, variables, data types
 
-## TODO video
+<a href="https://www.youtube.com/watch?v=v8HbNx4YrA8&list=PLpHkXU1Ab_H9zqVwsPYQuKX8ae3WEj8FU" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/python_videos/python_io.png?raw=true" alt="git and github setup" width="600">
+</a>
 
 This is your first look into Python and will learn
 
@@ -9,9 +11,6 @@ This is your first look into Python and will learn
 - variables
 - data types
 
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/python_videos/setup_part1.png?raw=true" alt="python setup part 1" width="600">
-</a>
 
 ## Read more
 
