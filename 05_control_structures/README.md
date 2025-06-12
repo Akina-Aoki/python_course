@@ -1,4 +1,4 @@
-# Strings
+# Control structures
 
 ## TODO video while and for
 

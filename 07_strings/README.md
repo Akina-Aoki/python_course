@@ -1,5 +1,4 @@
-
-# Control structures
+# Strings
 
 ## TODO video
 
