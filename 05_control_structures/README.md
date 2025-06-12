@@ -1,16 +1,24 @@
 # Strings
 
-## TODO video
+## TODO video while and for
 
-You will learn
-- if statement
-- while statement
-- for statement
+**a) if-statement**
 
-
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/python_videos/setup_part1.png?raw=true" alt="python setup part 1" width="600">
+<a href="https://www.youtube.com/watch?v=9Ez_sb4wyxc&list=PLpHkXU1Ab_H9zqVwsPYQuKX8ae3WEj8FU" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/python_videos/if_statements.png?raw=true" alt="python setup part 1" width="600">
 </a>
+
+**b) while-statement**
+<a href="https://youtu.be/Bjr7FaZj52w" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/python_videos/while_statement.png?raw=true" alt="python setup part 1" width="600">
+</a>
+
+**c) for-statement**
+<!-- <a href="" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/python_videos/for_statement.png?raw=true" alt="python setup part 1" width="600">
+</a> -->
+
+
 
 
 ## Read more
