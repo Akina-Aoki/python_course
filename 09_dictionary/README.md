@@ -15,4 +15,7 @@ You will learn
 
 ## Read more
 
+- [w3schools - dictionary](https://www.w3schools.com/python/python_dictionaries.asp)
+
+
 ## Other videos
