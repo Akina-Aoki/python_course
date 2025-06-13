@@ -1,16 +1,14 @@
 # Strings
 
-## TODO video
+<a href="https://youtu.be/W_kr4kHJ-MI" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/python_videos/strings.png?raw=true" alt="python setup part 1" width="600">
+</a>
 
 You will learn
 - strings
 - string methods
 - intro to regexp 
 
-
-<!-- <a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/python_videos/setup_part1.png?raw=true" alt="python setup part 1" width="600">
-</a> -->
 
 ## Read more
 

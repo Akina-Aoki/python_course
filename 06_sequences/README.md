@@ -1,11 +1,20 @@
 # Control structures
 
-## TODO video tuples and sets
-
 **a) lists**
 
 <a href="https://youtu.be/4JXokxjufKY" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/python_videos/lists.png?raw=true" alt="python lists" width="600">
+</a>
+
+**b) tuples**
+
+<a href="https://youtu.be/goe3axFJtO0" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/python_videos/tuples.png?raw=true" alt="python lists" width="600">
+
+**c) sets**
+
+<a href="https://youtu.be/w0ClMn8IDQg" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/python_videos/sets.png?raw=true" alt="python lists" width="600">
 </a>
 
 ## Read more 
