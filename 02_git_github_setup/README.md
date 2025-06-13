@@ -7,7 +7,7 @@ In this section, we will go through how to use Git and Github for version contro
   <img src="https://github.com/kokchun/assets/blob/main/git_github/git_theory.png?raw=true" alt="git and github setup" width="600">
 </a>
 
-**a) git and github setup**
+**b) git and github setup**
 <a href="https://www.youtube.com/watch?v=NX19Yz2_S0Y" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/git_github/git_github_setup.png?raw=true" alt="git and github setup" width="600">
 </a>
