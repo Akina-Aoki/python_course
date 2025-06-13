@@ -14,9 +14,9 @@
 </a>
 
 **c) for-statement**
-<!-- <a href="" target="_blank">
+<a href="https://youtu.be/7uVVS5WbD4E" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/python_videos/for_statement.png?raw=true" alt="python setup part 1" width="600">
-</a> -->
+</a>
 
 
 
