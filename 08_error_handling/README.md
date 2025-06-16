@@ -10,5 +10,8 @@
 
 ## Read more
 
+- [programiz - exception handling](https://www.programiz.com/python-programming/exception-handling)
+- [w3schools - try except](https://www.w3schools.com/python/python_try_except.asp)
+- [wikibooks - Python errors](https://en.wikibooks.org/wiki/Python_Programming/Errors)
 
 ## Other videos
