@@ -91,3 +91,6 @@ def _private_function():
 
 Class attributes that are denoted double underscore before the name will have its name changed, for example `_my_var` becomes `_ClassName__my_var`. This means that _var isn't directly accessible, but the attribute itself is still not private as it can be accessed through its new name.
 
+## Postfix underscore to avoid overwriting built-in functions
+
+The built-in functions in python can be overwritten but should not be overwritten. If you want to use a variable name that is same as built-in function then add an underscore after it for example `sum_`
