@@ -10,6 +10,7 @@
 
 ## Read more
 
+- [w3schools - functions](https://www.w3schools.com/python/python_functions.asp)
 
 
 ## Other videos
