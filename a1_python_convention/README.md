@@ -84,5 +84,10 @@ def _private_function():
     ...
 ```
 
-> ![NOTE]
+> [!NOTE]
 > you can still access this function but shouldn't if you are outside of the class/module. 
+
+## Private with name mangling
+
+Class attributes that are denoted double underscore before the name will have its name changed, for example `_my_var` becomes `_ClassName__my_var`. This means that _var isn't directly accessible, but the attribute itself is still not private as it can be accessed through its new name.
+
