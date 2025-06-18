@@ -1,4 +1,4 @@
-# OOP fundamentals
+# Pydantic to work with data using OOP
 
 ## TODO video
 

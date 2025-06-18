@@ -1,4 +1,6 @@
-# OOP fundamentals
+# OOP theoretical 
+
+In this lecture we go deep into OOP theory to see how it works.
 
 ## TODO video
 
