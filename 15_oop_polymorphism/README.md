@@ -9,6 +9,7 @@
 
 
 ## Read more
-
+- [polymorphism](https://www.programiz.com/python-programming/polymorphism). 
+- [operator overloading](https://www.geeksforgeeks.org/operator-overloading-in-python/)
 
 ## Other videos
