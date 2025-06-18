@@ -1,7 +1,5 @@
 # Control structures
 
-## TODO video while and for
-
 **a) if-statement**
 
 <a href="https://www.youtube.com/watch?v=9Ez_sb4wyxc&list=PLpHkXU1Ab_H9zqVwsPYQuKX8ae3WEj8FU" target="_blank">
@@ -9,11 +7,13 @@
 </a>
 
 **b) while-statement**
+
 <a href="https://youtu.be/Bjr7FaZj52w" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/python_videos/while_statement.png?raw=true" alt="python setup part 1" width="600">
 </a>
 
 **c) for-statement**
+
 <a href="https://youtu.be/7uVVS5WbD4E" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/python_videos/for_statement.png?raw=true" alt="python setup part 1" width="600">
 </a>
