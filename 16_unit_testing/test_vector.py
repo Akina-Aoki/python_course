@@ -84,3 +84,7 @@ def test_plot():
 
     # If you want to check if the method runs without error:
     assert True  # Placeholder for successful execution
+
+
+## TODO: for reader - add more tests
+
