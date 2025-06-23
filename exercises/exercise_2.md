@@ -6,6 +6,8 @@ In this exercise, you get to familiarize yourself with the control structures in
 - for statements
 - while statements
 
+This exercise covers lectures 05 in the course.
+
 ## 0. Check sign (\*)
 
 Ask the user to input a number and check if this number is **positive**, **negative** or **zero** and print it out.

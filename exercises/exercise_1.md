@@ -1,6 +1,6 @@
 # Exercise 1 - Count with python
 
-In this exercise, you get to familiarize yourself with fundamental Python
+In this exercise, you get to familiarize yourself with fundamental Python. This exercise covers lectures 04 in the course.
 
 ## 0. Pythagorean theorem (*)
 
