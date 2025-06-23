@@ -90,11 +90,21 @@ b) 10, 100, 1000, 10000, 100000, 1000000 dice rolls. Count the number of outcome
 
 c) Use matplotlib to plot this list. (\*)
 
-## 5. Monte Carlo simulation (\*\*)
+## 5. Monte Carlo simulation (\*\*\*)
 
 a) Simulate 5000 uniformly distributed points between -1 and 1, $X\sim U(-1,1)$. Now calculate the Euclidean distances between each point and the origin (0,0), $d_i = \sqrt{x_i^2 + y_i^2}$. For $d_i < 1$ plot the point with one color, and for $d_i > 1$ plot the point in another color, $i = \{1,\ldots, 5000\}$. (\*\*)
 
 b) Calculate the fraction between number of inner points and number of outer points. What do you this will converge to when number of points reaches infinity? (\*\*)
+
+## 6. A cute rabbit among two ferocious snakes (\*\*\*)
+
+There are three identical doors, behind two of them, there are ferocious snakes and behind one of them is a cute little rabbit. Your aim is to pick a door and get the cute rabbit. You start picking one door randomly and suddenly another door opens and snake slithers away _pssss_. Now you have a choice to either stay with your door or change to the remaining door.
+
+<img src="https://github.com/kokchun/assets/blob/main/python/snakes_rabbits.png?raw=true" width = 200>
+
+a) What is your choice and why? (\*\*)
+
+b) Randomly assign which door has the rabbit, and randomly pick an initial door. Now simulate 10, 100, 1000, 10000, 100000, 1000000 times for staying and for switching doors. Calculate the proportion of finding the rabbits for each set of simulations. Plot the results (\*\*)
 
 ## 7. Theory
 
