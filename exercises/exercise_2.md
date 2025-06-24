@@ -159,7 +159,7 @@ e) Explain the meaning of truthy and falsy values and give a few example of both
 
 f) Can you nest control structures in Python (e.g., a loop inside an if)? Give a brief example.
 
-g) Every expression can be part of a statement, but not all statements are expressions. True or false? 
+g) Every expression can be part of a statement, but not all statements are expressions. True or false?
 
 ## Glossary
 
@@ -182,3 +182,4 @@ Fill in this table either by copying this into your own markdown file or copy it
 | nested if statement   |             |
 | expression            |             |
 | statement             |             |
+| control flow          |             |

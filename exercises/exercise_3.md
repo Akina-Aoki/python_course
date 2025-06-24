@@ -1,8 +1,6 @@
 # Exercise 3 - sequences
 
-## NOT FINISHED YET
-
-In this exercise, you get to familiarize yourself with fundamental Python
+In this exercise, you get to familiarize yourself with sequences in Python.
 
 ## 0. Dice rolls (\*)
 
@@ -118,7 +116,18 @@ c)
 
 Fill in this table either by copying this into your own markdown file or copy it into a spreadsheet if you feel that is easier to work with.
 
-| terminology | explanation |
-| ----------- | ----------- |
-|             |             |
-|             |             |
+| terminology     | explanation |
+| --------------- | ----------- |
+| sequence        |             |
+| list            |             |
+| tuple           |             |
+| set             |             |
+| range           |             |
+| indexing        |             |
+| slicing         |             |
+| comprehension   |             |
+| zip             |             |
+| enumermate      |             |
+| unpacking       |             |
+| membership test |             |
+|                 |             |
