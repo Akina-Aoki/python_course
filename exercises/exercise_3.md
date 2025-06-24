@@ -110,9 +110,17 @@ a) What is a sequence in Python? Give examples of sequence types.
 
 b) What is the difference between a list and a tuple?
 
+c) How does indexing work in Python sequences? What happens if you use a negative index?
 
+d) How does Python handle out-of-range indices in slicing vs indexing?
 
-c)
+e) Which of the following sequence types are mutable: list, tuple, str, range?
+
+f) What is sequence unpacking? Provide an example.
+
+g) What are some common use cases for enumerate() and zip() when working with sequences?
+
+h) What is the difference between sorted() and .sort() in lists?
 
 ## Glossary
 
