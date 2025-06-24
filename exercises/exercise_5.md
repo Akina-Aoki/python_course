@@ -1,156 +1,65 @@
-# Exercise 5 - 
+# Exercise 5 - dictionary and functions
 
 In this exercise, you get to familiarize yourself with strings, file handling, error handling and strings. This exercise covers 07-09
 
-## 0. Counting words (\*)
+## 0. Area (\*)
 
-Count the number of words in this sentence: "A picture says more than a thousand words, a matematical formula says more than a thousand pictures." (\*)
+Create a function that takes the base and height of a triangle as input parameters and returns the area of the triangle.
 
-## 1. Counting letters (\*)
+## 1. Euclidean distance (\*)
 
-Let the user input a word:
+The formula for Euclidean distance in 2D between $P: (p_1, p_2)$ and $Q: (q_1, q_2)$ is:
 
-a) print out the number of letters in the word. (\*)
+$d(P,Q) = \sqrt{(p_1-q_1)^2 + (p_2-q_2)^2}$
 
-b) print out the number of **uppercase** and **lowercase** letters of the word (\*)
+a) Create a function that takes two points as input parameters and return the Euclidean between them. (\*)
 
-## 2. Palindrome (\*)
+b) Let the user input two points. Call the function using the users input points. (\*)
 
-A palindrome is a sequence of characters that is the same, when read forward as backwards (ignoring spaces). For example:
+c) Use your function to calculate distances between the origin (0, 0) and each of these points: (10, 3), (-1, -9), (10, -10), (4, -2), (9, -10). (\*)
 
-- "Anna" is a palindrome
-- "Ni talar bra latin"
-- bjkjb
+---
 
-Here is a flowchart of the algorithm.
+## 2. Mathematical functions (\*)
 
-<img src="https://github.com/kokchun/assets/blob/main/python/palindrome_flowchart.png?raw=true" width = 300 style="display:inline-block; text-align:left;">
+Make the following functions with **def** or **lambda** and plot their graphs in the same figure window, with $x\in [-10,10]$ :
 
-Let the user input a sequence of characters and check if it is a palindrome. (\*)
+&nbsp; a) &nbsp; $f(x) = x^2 -3$ (\*)
 
-## 2. Vowels (\*\*)
+&nbsp; b) &nbsp; $g(x) = 4x-7$ (\*)
 
-Count the number of vowels in this sentence: "Pure mathematics is, in its way, the poetry of logical ideas"
+What could the relation between $f(x)$ and $g(x)$ be?
 
-## 3. Encryption (\*\*)
+---
 
-Let the user input a word and:
+## 3. Name cleaner (\*)
 
-&nbsp; a) &nbsp; encrypt the message by replacing each letter with the next letter. If the letter is in the end of the alphabet, use the first letter instead.
+Create a function that takes a name as an input and:
 
-e.g. in Swedish: "höst" $\rightarrow$ "iatu"
+- removes all leading and trailing blank spaces
+- make capitalize the first character of each name, and make the rest lowercase
 
-## 4. Find and fix errors (\*)
-
-Find the errors in this code to compute the distance between the point $(x,y)$ and the origin in a cartesian coordinate system.
-
-```python
-impor numpy as np
-
-def distance(x,y)
-    reurn np.sqrt(x+y)
-
-print(distance([0.5, 0.5]))
+Use your function on this list of strings:
 
 ```
-
-## 5. Find and fix errors (\*)
-
-Find the errors in this code. Just change the function, don't touch the test program.
-
-```python
-
-def is_fourdigit(number):
-    if number//1000 < 10
-        return true
-    else
-        return false
-
-# test program
-test_numbers = [231, 3124, -4124, -1000,-999, 1001, 10000, -10000, 999]
-
-for number in test_numbers:
-    if is_fourdigit(number):
-        print(f"{number} is four-digit")
-    else:
-        print(f"{number} is not four-digit")
-
+["  MaRcUs ", " iDA aNderSon", "OLOF Olofsson            "  ]
 ```
 
 ---
 
-## 6. Tram (\*)
+## 4. Change (\*\*)
 
-Kokchun is a **clumpsy** computer user that doesn't take trams too often. Write a program to prompt the user for:
+Create a function that takes a value as input parameter and print out the banknotes and coins in Swedish currency representing this value. For example 5289 would give the following printout:
 
-- number of times he/she wants to take tram in one month
-- cost for one ticket
-- cost for monthly card
+- 5st 1000-lapp
+- 1st 200-lapp
+- 1st 50-lapp
+- 1st 20-lapp
+- 1st 10-krona
+- 1st 5-krona
+- 2st 2-krona
 
-The program should calculate if it's worth for him to buy monthly card or not. Make the program user friendly with clear error messages and ask again in case of input errors.
-
----
-
-## 7. Dice rolls (\*)
-
-Create a textfile called **dice_rolls.txt** using Python. Also for each subtask, write adequate headers.
-
-&nbsp; a) &nbsp; Simulate 20 dice rolls and write them to your textfile. (\*)
-
-&nbsp; b) &nbsp; Sort the dice rolls from a) and write them to a separate row in the same textfile. (\*)
-
-&nbsp; c) &nbsp; Count the number of fours in the dice rolls and write them to a separate row in the same textfile. (\*)
-
-## 8. Test results (\*)
-
-Read in the file test_result.txt (located in the data folder of this repo) in Python.
-
-[test_result]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Files/test_result.txt
-
-&nbsp; a) &nbsp; Print out the text in the terminal (\*)
-
-&nbsp; b) &nbsp; Create new rows in the same file and write the people and their corresponding scores in alphabetical order. (\*)
-
-&nbsp; c) &nbsp; Create additional rows in the same file and sort the people after their grades. The grade limits are: (\*\*)
-
- <table style="display:inline-block; text-align:left;">
-    <tr style="background-color: #174A7E; color: white;">
-      <th>Grade</th>
-      <th>Range</th>
-    </tr>
-    <tr>
-      <td>F</td>
-      <td>&lt; 20</td>
-    </tr>
-    <tr>
-      <td>E</td>
-      <td>20-29</td>
-    </tr>
-    <tr>
-      <td>D</td>
-      <td>30-39</td>
-    </tr>
-    <tr>
-      <td>C</td>
-      <td>40-49</td>
-    </tr>
-    <tr>
-      <td>B</td>
-      <td>50-59</td>
-    </tr>
-    <tr>
-      <td>A</td>
-      <td>60-70</td>
-    </tr>
-  </table>
-
-## 9. National test (\*)
-
-Read in the file NPvt19Ma2A.txt and NPvt19Ma2C.txt (located in the data folder of this repo) in Python. Use **matplotlib** to plot pie charts for each grade categories in each file.
-
-## 10. Dice roll experiment (\*\*)
-
-Simulate 10, 100, 1000, 10000, 100000 dice rolls and count the freqencies and probabilities for each number in each simulation. Create a new text file using Python with the name "simulation.txt" and write the results to that text file.
+Now let the user input a value, and use the function to calculate the change.
 
 ## 11. Theory
 
@@ -198,3 +107,19 @@ Fill in this table either by copying this into your own markdown file or copy it
 | with               |             |
 | context manager    |             |
 | close()            |             |
+
+
+<div style="background-color: #FFF; color: #212121; border-radius: 20px; width:25ch; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; display: flex; justify-content: center; align-items: center;">
+<div style="padding: 1em; width: 60%;">
+    <h2 style="font-size: 1.2rem;">Kokchun Giang</h2>
+    <a href="https://www.linkedin.com/in/kokchungiang/" target="_blank" style="display: flex; align-items: center; gap: .4em; color:#0A66C2;">
+        <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="20"> 
+        LinkedIn profile
+    </a>
+    <a href="https://github.com/kokchun/Portfolio-Kokchun-Giang" target="_blank" style="display: flex; align-items: center; gap: .4em; margin: 1em 0; color:#0A66C2;">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"> 
+        Github portfolio
+    </a>
+    <span>AIgineer AB</span>
+    <div>
+</div>
