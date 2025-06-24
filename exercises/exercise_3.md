@@ -106,9 +106,11 @@ b) Randomly assign which door has the rabbit, and randomly pick an initial door.
 
 ## 7. Theory
 
-a) What is the difference between = and == in Python?
+a) What is a sequence in Python? Give examples of sequence types.
 
-b) Explain the meaning of truthy and falsey values
+b) What is the difference between a list and a tuple?
+
+
 
 c)
 

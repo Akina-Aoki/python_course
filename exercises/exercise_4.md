@@ -157,11 +157,11 @@ Simulate 10, 100, 1000, 10000, 100000 dice rolls and count the freqencies and pr
 
 ## 11. Theory
 
-a) What is the difference between = and == in Python?
+a) 
 
-b) Explain the meaning of truthy and falsey values
+b) 
 
-c)
+c) Why are strings considered sequences in Python?
 
 ## Glossary
 
