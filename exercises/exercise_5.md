@@ -1,6 +1,6 @@
 # Exercise 5 - dictionary and functions
 
-In this exercise, you get to familiarize yourself with strings, file handling, error handling and strings. This exercise covers 07-09
+In this exercise, you get to familiarize yourself with strings, file handling, error handling and strings. This exercise covers 10-11
 
 ## 0. Area (\*)
 
@@ -24,9 +24,9 @@ c) Use your function to calculate distances between the origin (0, 0) and each o
 
 Make the following functions with **def** or **lambda** and plot their graphs in the same figure window, with $x\in [-10,10]$ :
 
-&nbsp; a) &nbsp; $f(x) = x^2 -3$ (\*)
+a) $f(x) = x^2 -3$ (\*)
 
-&nbsp; b) &nbsp; $g(x) = 4x-7$ (\*)
+b) $g(x) = 4x-7$ (\*)
 
 What could the relation between $f(x)$ and $g(x)$ be?
 
@@ -61,65 +61,77 @@ Create a function that takes a value as input parameter and print out the bankno
 
 Now let the user input a value, and use the function to calculate the change.
 
-## 11. Theory
+## 5. Curriculum (\*)
 
-a) Explain the difference between str.upper(), str.lower(), and str.title().
+Create a dictionary containing all the courses that you will study in this program, with the course names as **keys** and the amount of points as **value**. Then calculate the number of points that you will study in total. (\*)
 
-b) What is the result of "abc"[1:3]? How does slicing work with strings?
+## 6. Dice simulation (\*)
 
-c) Why are strings considered sequences in Python?
+Simulate 1000000 dice rolls and save the number of ones, twos, ..., sixes in a dictionary. Then print them out in the terminal. (\*)
 
-d) What is the use of escape characters in strings? Give an example.
+## 7. Pokemon list (\*)
 
-e) Explain how to reverse a string using slicing.
+Read in the file pokemon_list.txt in Python. Create a variable with name pokedex with the key:value **"pokemon":"type, index"**. For example when searching for the keys "Gengar" and "Pikachu": (\*)
 
-f) What is the purpose of a try...except block in Python?
+```python
 
-g) What is the purpose of raise?
+print(pokedex["Gengar"])
+print(pokedex["Pikachu"])
 
-h) What is the difference between runtime errors and logical errors?
+Spöke/Gift, 94
+Elektrisk, 25
+```
 
-i) What does the with open(...) as f: syntax do, and why is it recommended?
+## 8. Morse code (\*\*)
 
-j) Explain the difference between read(), readline(), and readlines().
+Read in the file morse.txt, save it in a dictionary and create a function that lets the user input a message to get it translated to morse code. For example (\*\*)
 
-k) Explain the different file modes: 'r', 'w', 'a', 'x', and 'r+'.
+```python
+
+print(morse("SOS"))
+print(morse("POKEMON"))
+```
+
+```
+...---...
+.------.-.------.
+```
+
+## 9. Theory
+
+a) What is a function in Python, and why is it used?
+
+b) Explain the difference between parameters and arguments.
+
+c) What is the difference between \*args and \*\*kwargs in a function definition?
+
+d) What is the difference between a regular function and a lambda function in Python?
+
+e) Explain the purpose of the get() method. How is it different from accessing a key directly?
+
+f) What is the difference between .keys(), .values(), and .items() methods?
+
+g) Can dictionary keys be mutable types like lists or other dictionaries? Why or why not?
 
 ## Glossary
 
 Fill in this table either by copying this into your own markdown file or copy it into a spreadsheet if you feel that is easier to work with.
 
-| terminology        | explanation |
-| ------------------ | ----------- |
-| replace            |             |
-| regular expression |             |
-| concatenation      |             |
-| split              |             |
-| indexing           |             |
-| escape charactrers |             |
-| unicode            |             |
-| exception          |             |
-| try block          |             |
-| except block       |             |
-| finally block      |             |
-| traceback          |             |
-| open()             |             |
-| with               |             |
-| context manager    |             |
-| close()            |             |
-
-
-<div style="background-color: #FFF; color: #212121; border-radius: 20px; width:25ch; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; display: flex; justify-content: center; align-items: center;">
-<div style="padding: 1em; width: 60%;">
-    <h2 style="font-size: 1.2rem;">Kokchun Giang</h2>
-    <a href="https://www.linkedin.com/in/kokchungiang/" target="_blank" style="display: flex; align-items: center; gap: .4em; color:#0A66C2;">
-        <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="20"> 
-        LinkedIn profile
-    </a>
-    <a href="https://github.com/kokchun/Portfolio-Kokchun-Giang" target="_blank" style="display: flex; align-items: center; gap: .4em; margin: 1em 0; color:#0A66C2;">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"> 
-        Github portfolio
-    </a>
-    <span>AIgineer AB</span>
-    <div>
-</div>
+| terminology          | explanation |
+| -------------------- | ----------- |
+| def                  |             |
+| function call        |             |
+| argument             |             |
+| return statement     |             |
+| parameter            |             |
+| default parameter    |             |
+| keyword arguments    |             |
+| variable arguments   |             |
+| positional arguments |             |
+| lambda functions     |             |
+| dict()               |             |
+| get()                |             |
+| items()              |             |
+| in operator          |             |
+| del                  |             |
+| update()             |             |
