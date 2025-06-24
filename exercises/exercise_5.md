@@ -1,4 +1,4 @@
-# Exercise 4 - working with text and files
+# Exercise 5 - 
 
 In this exercise, you get to familiarize yourself with strings, file handling, error handling and strings. This exercise covers 07-09
 
@@ -28,11 +28,11 @@ Here is a flowchart of the algorithm.
 
 Let the user input a sequence of characters and check if it is a palindrome. (\*)
 
-## 3. Vowels (\*\*)
+## 2. Vowels (\*\*)
 
 Count the number of vowels in this sentence: "Pure mathematics is, in its way, the poetry of logical ideas"
 
-## 4. Encryption (\*\*)
+## 3. Encryption (\*\*)
 
 Let the user input a word and:
 
@@ -40,7 +40,7 @@ Let the user input a word and:
 
 e.g. in Swedish: "höst" $\rightarrow$ "iatu"
 
-## 5. Find and fix errors (\*)
+## 4. Find and fix errors (\*)
 
 Find the errors in this code to compute the distance between the point $(x,y)$ and the origin in a cartesian coordinate system.
 
@@ -54,7 +54,7 @@ print(distance([0.5, 0.5]))
 
 ```
 
-## 6. Find and fix errors (\*)
+## 5. Find and fix errors (\*)
 
 Find the errors in this code. Just change the function, don't touch the test program.
 
@@ -79,7 +79,7 @@ for number in test_numbers:
 
 ---
 
-## 7. Tram (\*)
+## 6. Tram (\*)
 
 Kokchun is a **clumpsy** computer user that doesn't take trams too often. Write a program to prompt the user for:
 
@@ -91,7 +91,7 @@ The program should calculate if it's worth for him to buy monthly card or not. M
 
 ---
 
-## 8. Dice rolls (\*)
+## 7. Dice rolls (\*)
 
 Create a textfile called **dice_rolls.txt** using Python. Also for each subtask, write adequate headers.
 
@@ -101,7 +101,7 @@ Create a textfile called **dice_rolls.txt** using Python. Also for each subtask,
 
 &nbsp; c) &nbsp; Count the number of fours in the dice rolls and write them to a separate row in the same textfile. (\*)
 
-## 9. Test results (\*)
+## 8. Test results (\*)
 
 Read in the file test_result.txt (located in the data folder of this repo) in Python.
 
@@ -144,15 +144,15 @@ Read in the file test_result.txt (located in the data folder of this repo) in Py
     </tr>
   </table>
 
-## 10. National test (\*)
+## 9. National test (\*)
 
 Read in the file NPvt19Ma2A.txt and NPvt19Ma2C.txt (located in the data folder of this repo) in Python. Use **matplotlib** to plot pie charts for each grade categories in each file.
 
-## 11. Dice roll experiment (\*\*)
+## 10. Dice roll experiment (\*\*)
 
 Simulate 10, 100, 1000, 10000, 100000 dice rolls and count the freqencies and probabilities for each number in each simulation. Create a new text file using Python with the name "simulation.txt" and write the results to that text file.
 
-## 12. Theory
+## 11. Theory
 
 a) Explain the difference between str.upper(), str.lower(), and str.title().
 
