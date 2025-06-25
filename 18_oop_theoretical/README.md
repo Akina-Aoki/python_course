@@ -2,9 +2,6 @@
 
 In this lecture we go deep into OOP theory to see how it works.
 
-## TODO video
-
-
 <a href="https://youtu.be/G1a4BYvhkA4" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/python_videos/oop_theoretical.png?raw=true" alt="oop theoretical" width="600">
 </a>
