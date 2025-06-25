@@ -9,6 +9,6 @@
 
 
 ## Read more
-
+- [pydantic docs](https://docs.pydantic.dev/latest/)
 
 ## Other videos
