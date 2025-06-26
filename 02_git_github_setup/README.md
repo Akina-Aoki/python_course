@@ -3,11 +3,13 @@
 In this section, we will go through how to use Git and Github for version control. We will only cover the basics here which are necessary for this course. If you are interested in more features and benefits of Git, check out the links in the _Read more_ section below. Follow the instructions below to get started.
 
 **a) git and github theory**
+
 <a href="https://youtu.be/bbJDBTAMtm8" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/git_github/git_theory.png?raw=true" alt="git and github setup" width="600">
 </a>
 
 **b) git and github setup**
+
 <a href="https://www.youtube.com/watch?v=NX19Yz2_S0Y" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/git_github/git_github_setup.png?raw=true" alt="git and github setup" width="600">
 </a>
