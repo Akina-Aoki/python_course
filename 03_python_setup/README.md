@@ -23,10 +23,12 @@ Before you start, check if you have python and its package manager installed wit
 
 > ## 🍎 For macOS:
 
-Double click on this file 
 <img src="https://github.com/kokchun/assets/blob/main/install_python/check_mac.png?raw=true" alt="check_mac">
 
 If you do not have python installed, download it by choosing your desired python version and the correct OS:
+>[!Note]
+>We should install python 3.12!
+
 <img src="https://github.com/kokchun/assets/blob/main/install_python/downloadpython.png?raw=true" alt="dbeaver navigation">
 
 During installation, choose to add python.exe to PATH. This is for easily running python scripts and installing python packages without citing the location of the python executable.
@@ -34,6 +36,7 @@ During installation, choose to add python.exe to PATH. This is for easily runnin
 
 Additionally for mac OS, you need to double click the file called *Install Certificates.command* under *Application* folder after installation. This is to avoid issues with SSL that python can encounter, for instance, when installing packages from the internet. 
 > ## 🍎 For macOS:
+> Double click on this file 
 > ![certifications](https://github.com/kokchun/assets/blob/main/install_python/installcert.png?raw=true)
 
 ### 2. Install VS Code
