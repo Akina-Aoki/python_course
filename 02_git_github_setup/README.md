@@ -32,6 +32,12 @@ By installing Git in your local machine, you are able to perform version control
 
   <img src="https://github.com/kokchun/assets/blob/main/git_github/downloadgit.png?raw=true" width="500">
 
+- configure you git username and email (replace your own user name and email):
+```cmd
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "FIRST_NAME@example.com"
+```
+
 
 ### 2. Creating remote repository in Github
 
