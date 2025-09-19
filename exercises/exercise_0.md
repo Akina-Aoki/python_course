@@ -30,10 +30,27 @@ In programming, software developement, data science, data engineering and simila
 ## 2. Theoretical exercises
 
 a) What is the difference between git and github?
+Git 
+- Runs on a local repository in my local machine.
+- The technology, VCS Version control system.
+- Use Bash terminal and use commands such as commit, push, pull etc.
+- Track changes in my local repository.
+
+Github
+- Cloud-based hosting service for Git repositories.
+- Stores repos in the cloud and lives in a platform (Github) and runs online.
+- Easy collaboration with different local repos.
+
 
 b) What is the purpose of .gitignore file?
+- Tells Git which files and folders it should IGNORE / NOT TRACK in repos.
 
 c) Why is it a good idea to work with git and github?
+- Company teams work with them to be able to work in their projects and document, easy to understand for everyone.
+- It tracks history of the work, changes and can roll back if something breaks.
+- BRANCHING AND MERGING
+- OFFLINE WORK
+- Never lose the work if local machine is gone.
 
 ## Glossary
 
@@ -41,16 +58,16 @@ Fill in this table either by copying this into your own markdown file or copy it
 
 | terminology     | explanation |
 | --------------- | ----------- |
-| git             |             |
-| github          |             |
-| version control |             |
-| backup          |             |
-| gitignore       |             |
-| commit          |             |
-| pull            |             |
-| clone           |             |
-| cd              |             |
-| ls              |             |
-| cd ..           |             |
+| git             | Version Control System 
+| github          | Cloud based hosting service for Git repos   
+| version control | GIT system that records the history, tracks changes and restore earlier versions if needed.       
+| backup          | Restorable copy of data stored       |
+| gitignore       | Tells Git which files and folders it should IGNORE / NOT TRACK in repos.
+| commit          | Project snapshot, saves changes with message to track changes done.
+| pull            | Fetching the latest changes in a remote repo (github)
+| clone           | Creating full local copy of a remote repo to work in own pc.
+| cd              | CHANGE DIRECTORY - Move between file system in terminal.
+| ls              | LIST- Displays list of files in current directory in terminal.
+| cd ..           | Go up one folder level to the parent directory.
 |                 |             |
 |                 |             |
