@@ -1,4 +1,4 @@
-# Control structures
+# Sequences
 
 **a) lists**
 
