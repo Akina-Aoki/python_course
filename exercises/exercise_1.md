@@ -102,14 +102,49 @@ numbers = [1, 2, 41, 2] has type <class 'list'>
 ## 7. Theory
 
 a) What is the difference between input() and print() in Python?
+input()
+- is like a "reciever of data" or "container" for a variable that the user types.
+print()
+- displays the "output" or "result" from a code.
+
 
 b) What data type does the input() function return by default? How can you use it to get numeric input?
+- string is always default.
+- Convert the string data type variable into float or integer data type.
+
 
 c) Explain how formatted string literals (f-strings) improve readability in output statements. Give an example.
+- f-strings lets the output look more clean compared to using +. 
+- It is easier to read and change the variable because I can see where the variable will exactly be printed in the output.
+- No need to convert types because f-strings can handle it.
+- Changing variables is simple because I just need to update the varibale and not the whole sentence.
+
 
 d) Can a variable change its data type during runtime in Python? Show an example.
+YES
+- Variables are flexible. It is decided automatically based on the VALUE of the variable.
+- The VALUE can change depedning on the data type(string, float, integer, Bolean).
+- Example:
+x = 5 # Variable x is int
+x = "hi"  #Variable x is string
+x = 3.14  # Variable x is float
+
 
 e) What does it mean that Python is "dynamically typed"? How is that different from statically typed languages?
+dynamic means
+- No variable type declaration
+- Variable is automatically decided when the program runs
+
+- Dynamic sample
+x = 5 # Variable x is int
+x = "hi"  #Variable x is string
+x = 3.14  # Variable x is float
+
+- Static sample
+Java
+int = x 10;   # x must be an int
+x = "ten"   #  Error: can't assign string to integer
+
 
 ## Glossary
 
@@ -117,16 +152,16 @@ Fill in this table either by copying this into your own markdown file or copy it
 
 | terminology       | explanation |
 | ----------------- | ----------- |
-| data type         |             |
-| variable          |             |
-| assignment        |             |
-| dynamically typed |             |
-| input             |             |
-| output            |             |
-| type casting      |             |
-| boolean           |             |
-| string            |             |
-| f-string          |             |
-| indentation       |             |
-| convention        |             |
+| data type         | kind of value (string, float, integer, boolean, etc.)
+| variable          | container for value
+| assignment        | assigning a value to variable x=1
+| dynamically typed | type decided auto at run time
+| input             | data given to program
+| output            | data siplayed to the program
+| type casting      | converting between types
+| boolean           | TRUE FALSE data type
+| string            | text inside "" 
+| f-string          | formatted string with variable inside
+| indentation       | spaces and tabs for code blocks
+| convention        | common coding style or practice
 |                   |             |
