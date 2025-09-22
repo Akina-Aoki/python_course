@@ -6,6 +6,14 @@ In this exercise, you get to familiarize yourself with fundamental Python. This 
 
 a) A right angled triangle has the catheti: a = 3 and b = 4 length units. Compute the hypothenuse of the triangle. (\*)
 
+hypotenuse formula:
+c = sqrt(a**2 + b**2)
+a = 3
+b = 4
+
+c = math.sqrt (a**2 + b**2)
+
+
 b) A right angled triangle has hypothenuse c = 7.0 and a cathetus a = 5.0 length units. Compute the other cathetus and round to one decimal. (\*)
 
 ## 1. Classification accuracy (\*)
