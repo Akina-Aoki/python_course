@@ -1,3 +1,5 @@
+# Oldcoins library
+
 class OldCoinsStash:
     def __init__(self, owner):
         self.owner = owner
